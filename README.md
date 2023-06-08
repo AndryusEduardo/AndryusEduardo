@@ -9,3 +9,5 @@ Eu sou Andryus
 **Se quiser entrar em contato comigo pode usar o meu e-mail de estudante andryus.santos@escola.pr.gov.br** 📫
 
 ![](https://media.tenor.com/_kBRjEAGYHYAAAAC/thumbs-up-approve.gif)
+
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
