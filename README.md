@@ -1,4 +1,4 @@
-### Bem vindos ao meu perfil no Github 🖤
+### Bem vindos ao meu perfil no Github 🖤 😃
 
 Eu sou Andryus
 
